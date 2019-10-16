@@ -17,7 +17,7 @@ int main(void)
 		}
 	}
 	for (int i = 0; i < 5; i++) {
-		std::cout << arr[i];
+		std::cout << arr[i] << " ";
 	}
-	
+
 }
